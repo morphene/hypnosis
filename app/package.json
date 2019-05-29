@@ -1,0 +1,16 @@
+{
+  "name": "hypnosis",
+  "productName": "hypnosis",
+  "version": "0.0.1",
+  "description": "A crypto wallet for interacting with the Morphene Blockchain.",
+  "main": "./main.prod.js",
+  "author": {
+    "name": "Andrew Chaney",
+    "email": "andrew@boonedevelopment.com",
+    "url": "https://github.com/netuoso"
+  },
+  "scripts": {
+    "postinstall": "npm rebuild --runtime=electron --target=1.6.6 --disturl=https://atom.io/download/atom-shell --build-from-source"
+  },
+  "license": "MIT"
+}
