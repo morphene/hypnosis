@@ -6,7 +6,7 @@ Hypnosis is an Electron based wallet for the Morphene Blockchain that you can ru
 
 ## Updates
 
-- [2019/06/01 - This app was announced on SteemIt.com](https://steemit.com/morphene/@morphene-io/hypnosis-wallet-initial-release)
+- [2019/05/29 - This app was announced on SteemIt.com](https://steemit.com/morphene/@morphene-io/hypnosis-wallet-initial-release)
 
 ## No Support & No Warranty
 
