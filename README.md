@@ -2,7 +2,7 @@
 
 # Hypnosis - Morphene Blockchain Desktop Wallet
 
-Hypnosis is an Elecron based wallet for the Morphene Blockchain that you can run on your desktop computer without needing to run the blockchain itself.
+Hypnosis is an Electron based wallet for the Morphene Blockchain that you can run on your desktop computer without needing to run the blockchain itself.
 
 ## Updates
 
