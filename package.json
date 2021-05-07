@@ -244,7 +244,7 @@
     "redux-thunk": "^2.2.0",
     "semantic-ui-react": "0.81.1",
     "source-map-support": "^0.4.15",
-    "url-parse": "^1.2.0",
+    "url-parse": "^1.5.0",
     "utf-8-validate": "^3.0.1"
   },
   "devEngines": {
